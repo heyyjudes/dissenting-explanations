@@ -17,3 +17,16 @@ and [test-time-local-svm.ipynb](test-time-local-svm.ipynb).
 ### Experiment Materials
 For our human experiments, we include the questions we used: 
 [final_questions.csv](final_questions.csv). 
+
+### Citation
+```
+@inproceedings{reingold2024dissenting,
+title={Dissenting Explanations: Leveraging Disagreement to Reduce Model Overreliance},
+author={Reingold, Omer and Shen, Judy Hanwen and Talati, Aditi},
+booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+volume={38},
+number={19},
+pages={21537--21544},
+year={2024}
+}
+```
